@@ -185,6 +185,6 @@ Dataset provided by the UCI Machine Learning Repository.
 
 ## Author
 
-Rohan Singh
+Adhyyan Kori
 
 Built as a machine learning and Streamlit project.
