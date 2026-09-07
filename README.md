@@ -34,7 +34,7 @@ The trained model is integrated into a Streamlit web application where users can
 
 The project follows this general workflow:
 
-```text
+
 Dataset
    ↓
 Data Loading
